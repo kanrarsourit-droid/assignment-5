@@ -1,0 +1,1 @@
+This program demonstrates how to manipulate lists in Python. First, it generates a list of integers from 1 to 10. Using Python's slicing syntax, it extracts the first five elements into a new list. Then, it reverses that sub-list and prints both the original extracted segment and the reversed version to show the results of the operations.
