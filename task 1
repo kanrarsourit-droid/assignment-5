@@ -1,0 +1,1 @@
+In this assignment, I created a gradebook using a Python dictionary. I mapped student names as keys to their respective marks as values. The program lets the user type in a name to search for a grade. I used the .get() method to handle the lookup so that if a name isn't in the dictionary, the program displays a "not found" message instead of crashing with an error.
